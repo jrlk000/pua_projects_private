@@ -1,2 +1,2 @@
-# physic_simulations_public
-Container of different physic simulations round about the topic klassische mechanik
+# Physics simulations for first-semester coursework.
+A collection of different simulations related to classical mechanics.
